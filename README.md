@@ -6,7 +6,7 @@ I'm a **Freelance AI & Full-Stack Developer** helping teams to
 * integrate AI into products
 * build tools that people actually use.
 
-Also: weak when it comes to good coffee, travel enthusiast and occasionally distracted by planning the next adventure 🏝️
+Also: weak when it comes to good coffee, travel enthusiast and occasionally distracted by planning my next adventure. 🏝️
 
 ### *And what are you actually good at? 🛠️*
 
@@ -39,16 +39,16 @@ Basically: if it can be automated, scaled, or made smarter — I’m in.
 
 ### *Anything cool on your workbench? 🚀*
 
-Decide for yourself by having a look at it
+Decide for yourself by having a look
 
 - **AI Smart Customer Assistent** → Answers questions regarding internal customers
 
 ### *Okay, I’m interested. How do we talk? 🤝*
 
-Sounds good - let's connect!  
+Sounds great - let's create something and connect!  
 
-📧 [Send me an email](mailto:lukas@lukashamm.dev)  
-💼 [Connect on LinkedIn](https://linkedin.com/in/lukashamm-dev)  
-🌐 [Visit my website](https://lukashamm.dev)
+[Find me on LinkedIn](https://linkedin.com/in/lukashamm-dev) |
+[Visit my website](https://lukashamm.dev) |
+[Send me an email](mailto:lukas@lukashamm.dev) |
 
-See you somewhere in this world. ~ stay adventurous
+See you somewhere in this world. ~ stay adventurous 🗺️
