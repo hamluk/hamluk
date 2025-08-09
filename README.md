@@ -1,6 +1,6 @@
 ## Hi, I'm Lukas 👋
 
-### *Alright, what’s your deal? 🦹‍♂️*
+### *Alright, what’s your deal?* 🦹‍♂️
 I'm a **Freelance AI & Full-Stack Developer** helping teams to 
 * automate workflows,  
 * integrate AI into products
@@ -37,13 +37,13 @@ Turning ideas into working products — usually involving a mix of code, AI, tea
 
 Basically: if it can be automated, scaled, or made smarter — I’m in.
 
-### *Anything cool on your workbench? 🚀*
+### *Anything cool on your workbench?* 🚀
 
 Decide for yourself by having a look
 
 - **AI Smart Customer Assistent** → Answers questions regarding internal customers
 
-### *Okay, I’m interested. How do we talk? 🤝*
+### *Okay, I’m interested. How do we talk?* 🤝
 
 Sounds great - let's create something and connect!  
 
