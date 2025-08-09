@@ -1,31 +1,54 @@
-### Hi, I'm Lukas 👋
+## Hi, I'm Lukas 👋
 
-#### *So, what do you do? 🦹‍♂️*
-I'm a **AI & Full-Stack Developer** working as a Freelancer helping teams to
+### *Alright, what’s your deal? 🦹‍♂️*
+I'm a **Freelance AI & Full-Stack Developer** helping teams to 
 * automate workflows,  
 * integrate AI into products
-* build tools that people actually use.  
+* build tools that people actually use.
 
-#### *What is your tech spec? 🛠️*
+Also: weak when it comes to good coffee, travel enthusiast and occasionally distracted by planning the next adventure 🏝️
 
-My tech spec is
+### *And what are you actually good at? 🛠️*
 
-- **Languages:** Python, TypeScript, SQL, C++  
-- **Frameworks:** FastAPI, React, Streamlit, PydanticAI, Docker  
-- **AI:** OpenAI API, Mistral, LLama, Hugging Face, RAG  
-- **DevOps:** GitHub Actions, Docker, AWS, OpenShift
+Turning ideas into working products — usually involving a mix of code, AI, tears and blood. 👨‍💻 
 
-#### *Any cool stuff you are currently working on? 🚀*
+**Languages -**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+**Frameworks -**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-05998B?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+**AI -**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-AI-FFCA28?style=flat&logoColor=black)
+![LLaMA](https://img.shields.io/badge/LLaMA-000000?style=flat&logo=meta&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=flat&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FF5733?style=flat&logo=ai&logoColor=white)  
+**DevOps -**
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)  
 
-Yeah, have a look at some of my projects
+Basically: if it can be automated, scaled, or made smarter — I’m in.
+
+### *Anything cool on your workbench? 🚀*
+
+Decide for yourself by having a look at it
 
 - **AI Smart Customer Assistent** → Answers questions regarding internal customers
 
-#### *Sounds amazing, how can we connect? 🤝*
+### *Okay, I’m interested. How do we talk? 🤝*
 
-📧 send me a mail to [lukas@lukashamm.dev](mailto:lukas@lukashamm.dev)  
-💼 connect on [LinkedIn](https://linkedin.com/in/lukashamm-dev)  
-🌐 or pay me a visit on my [website](https://lukashamm.dev)
+Sounds good - let's connect!  
 
-![Let'sTalk](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYwcHFxc3NrMHRoa3I1eHZsdGwyZXNoc2tuNWc4MzV5Z2oyY2dyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UE9JPTe7LySli/giphy.gif)
+📧 [Send me an email](mailto:lukas@lukashamm.dev)  
+💼 [Connect on LinkedIn](https://linkedin.com/in/lukashamm-dev)  
+🌐 [Visit my website](https://lukashamm.dev)
 
+See you somewhere in this world. ~ stay adventurous
