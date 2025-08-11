@@ -41,7 +41,7 @@ Basically: if it can be automated, scaled, or made smarter — I’m in.
 
 Decide for yourself by having a look
 
-- **AI Smart Customer Assistent** → Answers questions regarding internal customers
+- [**AI Smart Customer Assistent**](https://lukashamm-dev-aiassistentshowcase.streamlit.app/) → AI agent equipped with DB tools that performs tasks autonomously by reading and modifying the database.
 
 ### *Okay, I’m interested. How do we talk?* 🤝
 
