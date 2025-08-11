@@ -10,7 +10,7 @@ Also: weak when it comes to good coffee, travel enthusiast and occasionally dist
 
 ### *And what are you actually good at? 🛠️*
 
-Turning ideas into working products — usually involving a mix of code, AI, tears and blood. 👨‍💻 
+Turning ideas into working products — usually involving a mix of code, AI, blood, sweat and tears. 👨‍💻 
 
 **Languages -**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
