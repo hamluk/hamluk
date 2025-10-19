@@ -41,6 +41,7 @@ Basically: if it can be automated, scaled, or made smarter — I’m in.
 
 Decide for yourself by having a look
 
+- [**Pydantic AI Tutorial Series**](https://github.com/hamluk/LearnPydanticAI/tree/master) → Tutorial Series on how to bring AI agent in Pydantic AI to life.
 - [**AI Smart Customer Assistent**](https://lukashamm-dev-aiassistentshowcase.streamlit.app/) → AI agent equipped with DB tools that performs tasks autonomously by reading and modifying the database.
 
 ### *Okay, I’m interested. How do we talk?* 🤝
