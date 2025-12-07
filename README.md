@@ -1,7 +1,7 @@
 ## Hi, I'm Lukas 👋
 
 ### *Alright, what’s your deal?* 🦹‍♂️
-I'm a **Freelance AI & Full-Stack Developer** helping teams to 
+I'm a **AI & Software Automation Engineer** helping teams to 
 * automate workflows,  
 * integrate AI into products
 * build tools that people actually use.
