@@ -39,8 +39,9 @@ Basically: if it can be automated, scaled, or made smarter — I’m in.
 
 ### *Anything cool on your workbench?* 🚀
 
-Decide for yourself by having a look
+Decide for yourself by having a look at some of my repositories and streamlit applications
 
+- [**fastapi-ai-backend**](https://github.com/hamluk/fastapi-ai-backend/tree/master) → How to develope AI as a reliable, scalabel, production-ready backend service.
 - [**Pydantic AI Tutorial Series**](https://github.com/hamluk/LearnPydanticAI/tree/master) → Tutorial Series on how to bring AI agent in Pydantic AI to life.
 - [**AI Smart Customer Assistent**](https://lukashamm-dev-aiassistentshowcase.streamlit.app/) → AI agent equipped with DB tools that performs tasks autonomously by reading and modifying the database.
 
